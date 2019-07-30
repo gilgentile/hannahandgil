@@ -3,6 +3,18 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="400px" height="200px" viewBox="0 0 400 200" enable-background="new 0 0 400 200" xml:space="preserve">
+	<defs>
+  <style type="text/css">
+@font-face {
+    font-family: 'lydianbold';
+    src: url('lydian_bold_bt.woff2') format('woff2'),
+         url('lydian_bold_bt.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+  </style>
+</defs>
 <g>
 	<g>
 		<path fill="#FFFFFF" d="M245.021,21.517c-5.996,0.024-9.526-4.132-13.257-6.016c-1.02-0.514-1.569-1.392-2.939-1.664
