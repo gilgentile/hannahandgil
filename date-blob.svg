@@ -164,10 +164,10 @@
 		<rect x="68.997" y="56.625" fill="#FFFFFF" width="243.523" height="80.512"/>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 68.999 82.1528)"><tspan x="0" y="0" font-family="'LydianBT-Bold'" font-size="33.6002">Catskill,</tspan><tspan x="108.38" y="0" font-family="'LydianBT-Bold'" font-size="33.6002"> </tspan><tspan x="117.217" y="0" font-family="'LydianBT-Bold'" font-size="33.6002">New</tspan><tspan x="177.198" y="0" font-family="'LydianBT-Bold'" font-size="33.6002"> </tspan><tspan x="186.035" y="0" font-family="'LydianBT-Bold'" font-size="33.6002" letter-spacing="-2">Y</tspan><tspan x="200.58" y="0" font-family="'LydianBT-Bold'" font-size="33.6002">ork</tspan></text>
+		<text transform="matrix(1 0 0 1 68.999 82.1528)"><tspan x="0" y="0" font-family="'lydianbold'" font-size="33.6002">Catskill,</tspan><tspan x="108.38" y="0" font-family="'lydianbold'" font-size="33.6002"> </tspan><tspan x="117.217" y="0" font-family="'lydianbold'" font-size="33.6002">New</tspan><tspan x="177.198" y="0" font-family="'lydianbold'" font-size="33.6002"> </tspan><tspan x="186.035" y="0" font-family="'lydianbold'" font-size="33.6002" letter-spacing="-2">Y</tspan><tspan x="200.58" y="0" font-family="'lydianbold'" font-size="33.6002">ork</tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 102.4854 137.1348)" font-family="'LydianBT-Bold'" font-size="33.6002">May 2, 2020</text>
+		<text transform="matrix(1 0 0 1 102.4854 137.1348)" font-family="'lydianbold'" font-size="33.6002">May 2, 2020</text>
 	</g>
 </g>
 </svg>
